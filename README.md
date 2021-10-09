@@ -1,0 +1,1 @@
+How to find gcd of two numbers in assemby.
